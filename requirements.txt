@@ -1,0 +1,7 @@
+streamlit
+pyperclip
+openai
+python-dotenv
+requests
+google-generativeai
+edge-tts
